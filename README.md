@@ -5,10 +5,6 @@
 
 ## 🖥️ 프로젝트 소개
 Spring Framework 의 MVC 패턴 기법을 적용하여 제작한 인테리어 시공 업체 사이트
-<br>
-
-## 🕰️ 개발 기간
-* 23.09.00일 - 23.11.00일
 
 ## 🧑‍🤝‍🧑 맴버구성
  - 팀장  : 정승호
@@ -41,58 +37,3 @@ Spring Framework 의 MVC 패턴 기법을 적용하여 제작한 인테리어 �
 <img src="https://img.shields.io/badge/github-181717?style=flat&logo=github&logoColor=white"/>
 <img src="https://img.shields.io/badge/notion-000000?style=flat&logo=notion&logoColor=white"/>
 </span>
-
-## 📕 DB구성- ERD
-
-## 📕 폴더 구조
-```
-   ├───src
-   ├───main
-   ├───java
-   │   └───org
-   │       └───homey
-   │           ├───controller
-   │           ├───domain
-   │           ├───mapper
-   │           ├───resources
-   │           ├───security
-   │           │   └───domain
-   │           └───service
-   ├───resources
-   │   ├───META-INF
-   │   └───org
-   │       └───homey
-   │           └───mapper
-   └───webapp
-       ├───resources
-       │   ├───assets
-       │   ├───fullcalendar
-       │   ├───img
-       │   ├───js
-       │   └───pages
-       └───WEB-INF
-           ├───classes
-           ├───spring
-           │   └───appServlet
-           └───views
-               ├───asboard
-               ├───consult
-               ├───email
-               ├───freePdt
-               ├───freePdtReq
-               ├───gen
-               ├───includes
-               ├───notice
-               ├───oneday
-               ├───onedayReq
-               ├───review
-               ├───scrab
-               ├───showcase
-               ├───sirequest
-               └───sischedule
-```
-
-
-                
-## 📕 노션 주소
-https://www.notion.so/spring-Homey-230921-a9a5c333415343f18e46b4ef6af407f7
