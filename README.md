@@ -21,7 +21,7 @@ Spring Framework 의 MVC 패턴 기법을 적용하여 제작한 인테리어 �
 - **OS** : Window 10
 - **IDE** : eclipse(sts-3.9.17)
 - **Framework** : Spring(5.2.24)
-- **Database** : Oracle DB(19.3.0.0.0)
+- **Database** : Oracle DB(19.3.0.0.0)(11g)
 - **ORM** : Mybatis
 - **Application server** :  Apache Tomcat® v9.0
 - **형상관리** : Github
